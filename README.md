@@ -27,23 +27,23 @@ A mobile application built using **Flutter** that allows employees or students t
 
 ## 📸 Screenshots
 
-### 🏠 Home Page
-![Home](./assets/screenshots/home_page.png)
+### 🏠 Home Page  
+<img src="./assets/screenshots/home_page.png" width="600"/>
 
-### 🔐 Employee Login
-![Login](./assets/screenshots/employee_login.png)
+### 🔐 Employee Login  
+<img src="./assets/screenshots/employee_login.png" width="600"/>
 
-### 🗺️ Geo-Fence Detection
-![Geofence](./assets/screenshots/geofence.png)
+### 🗺️ Geo-Fence Detection  
+<img src="./assets/screenshots/geofence.png" width="600"/>
 
-### 📅 Employee Dashboard
-![Employee Dash](./assets/screenshots/employee_dash.png)
+### 📅 Employee Dashboard  
+<img src="./assets/screenshots/employee_dash.png" width="600"/>
 
-### 📂 Past Attendance
-![Past Logs](./assets/screenshots/employee_past.png)
+### 📂 Past Attendance Logs  
+<img src="./assets/screenshots/employee_past.png" width="600"/>
 
-### 📊 Admin Dashboard
-![Admin Dash](./assets/screenshots/admin_dash.png)
+### 📊 Admin Dashboard  
+<img src="./assets/screenshots/admin_dash.png" width="600"/>
 
 ---
 
